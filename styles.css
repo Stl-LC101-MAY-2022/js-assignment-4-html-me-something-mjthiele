@@ -1,1 +1,65 @@
 /* Write your CSS here! */
+
+p {
+    margin-top:20px;
+    margin-bottom:20px;
+    padding: 1.0em
+}
+video {
+    margin-left:40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+img {
+    margin:auto;
+    width: 99%;
+    padding: 5px
+}
+
+.funParagraph {
+    color:green
+}
+
+#testP {
+    background-color: palegoldenrod;
+}
+
+#mainHeading {
+    color: red;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-size: 300%;
+}
+
+body {
+    display: block;
+    margin: 8px;
+    width: 60%;
+    background-color: blanchedalmond;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 5px;
+    
+}
+
+header {
+    text-align: center;
+    margin-left: 45px;
+}
+article {
+    background-color: white;
+    display: block;
+}
+
+h2 {
+    padding: 10px;
+    text-align: left;
+    font-size: 200%;
+}
+
+.footerWithin {
+    margin-left: 45px;
+}
